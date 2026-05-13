@@ -21,8 +21,10 @@ Algorithm:
 
 ## 2.1 Title Page
 TITLE: Comprehensive Report on the Fundamentals of Generative AI and Large Language Models
-NAME: K SUNDARESH
-REG.NO: 212225220111
+
+NAME: khovarthan.V
+
+REG.NO: 212225220052
 
  ## 2.2 Abstract or Executive Summary
 
