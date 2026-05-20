@@ -37,10 +37,8 @@ A short summary of:
 3. Main conclusions
    
 ## 2.3 Table of Contents
-
 Lists all sections and subtopics with page numbers.
 ## 2.4 Introduction
-
 Provides an overview of:
 
 1. Artificial Intelligence
@@ -50,7 +48,6 @@ Provides an overview of:
 3. Scope of the report
 
 ## 2.5 Main Body Sections:
-
   • Introduction to AI and Machine Learning
   
 Artificial Intelligence (AI) is a branch of computer science that focuses on creating machines capable of performing tasks that normally require human intelligence. These tasks include reasoning, learning, problem-solving, perception, and language understanding.
@@ -85,9 +82,7 @@ Modern LLMs are based on the Transformer architecture, which is highly efficient
   • Training Process and Data Requirements
 
 The process of building AI models, especially LLMs, involves several steps:
-
 ## 1. Data Collection
-
 Large datasets are gathered from:
 
 1. Books
@@ -97,12 +92,9 @@ Large datasets are gathered from:
 3. Articles
 
 ## 2. Data Preprocessing
-
 1. Cleaning data
 2. Tokenization (splitting text into smaller units)
-
 ## 3. Model Training
-
 Model training is a crucial stage in building a Large Language Model (LLM). During this process, the model learns patterns, relationships, and structure from large amounts of text data
 Example
 
@@ -116,9 +108,7 @@ Correct Sentence:
 Artificial Intelligence is transforming the world.
 
 The model learns from mistakes and improves its predictions over time.
-
 ## 4. Fine-Tuning
-
 Fine-tuning is the process of further training a pre-trained model on a specific dataset to improve its performance for particular tasks. After general training on large datasets, the model is adapted to perform specialized functions more accurately.
 
 Key Points
@@ -126,9 +116,7 @@ Key Points
 2. Builds on pre-trained knowledge
 3. Faster than training from scratch
 4. Enhances accuracy and relevance
-
 ## 5. Deployment
-
 The trained model is used in real-world applications like chat
 
   • Use Cases and Applications (Chatbots, Content Generation, etc.)
@@ -138,20 +126,15 @@ The trained model is used in real-world applications like chat
   • Future Trends
 
 ## 2.6 Conclusion
-
 Summarize the report findings.
-
 ## 2.7 References
-
 Include sources like:
 
 1. OpenAI
 2. Google AI
 
 # Step 3: Research and Data Collection
-
 ## 3.1 Gather recent academic papers, blog posts, and official docs (e.g., OpenAI, Google AI) 
-
 Collect information from:
 
 1. Research papers
